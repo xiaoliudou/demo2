@@ -6,5 +6,8 @@ public class demo {
         BaseDTO baseDTO = new BaseDTO();
         return baseDTO;
     }
+    void ss(){
+        System.out.println("ss");
+    }
 
 }
